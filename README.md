@@ -30,7 +30,7 @@ Sau quá trình nghiên cứu và thực hiện Lab 4, em đã hoàn thành mộ
 # Giao diện màn hình chính
 <img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/5ceed178-b597-4c63-9cd6-ad0eea6c0be3" />
 
-
+## Hình ảnh
 # Dự báo theo giờ và Dự báo theo ngày
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/5e89a5d8-e778-4357-820d-1ccf8730ea17" />
 
