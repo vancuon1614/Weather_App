@@ -1,9 +1,3 @@
-# weather_app
-
-Weather Flutter project.
-
-## Getting Started
-
 ## THÀNH TỰU ĐẠT ĐƯỢC
 
 Sau quá trình nghiên cứu và thực hiện Lab 4, em đã hoàn thành một ứng dụng Thời tiết (Weather App) hoàn chỉnh với các kết quả cụ thể sau:
